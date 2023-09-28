@@ -59,7 +59,7 @@ Alaa AlSalman:
 ## Dashboard
 
 <div align="Center">
-    <img src="dassh.jpeg" width='700'>
+    <img src="gg.jpeg" width='700'>
 </div> 
 
 
